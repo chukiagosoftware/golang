@@ -1,3 +1,4 @@
+// from codesignal Go Algorithms
 package main
 
 import (
